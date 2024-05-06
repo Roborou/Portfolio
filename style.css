@@ -1,0 +1,63 @@
+/* Apply styles to the header */
+header {
+    background-image: url(matrix.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20vh;
+    opacity: 1;
+}
+
+/* Apply styles to the body */
+body {
+    min-height: calc(100vh - 100px); /* Adjust based on header height */
+    color: #ddd; /* Light text color */
+    padding: 20px; /* Add padding to create space around the text */
+}
+
+/* Apply styles to project titles */
+h2 {
+    color: #fff; /* White text color */
+    text-align: center;
+}
+
+/* Apply styles to project descriptions */
+p {
+    color: #ccc; /* Light text color */ 
+    text-align: center;
+}
+
+/* Apply styles to links */
+a {
+    color: #00f; /* Blue text color */
+    font-size: 30px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    background-color: #222; /* Dark background color */
+    color: #ddd; /* Light text color */
+  }
+  
+  /* Apply styles to individual project sections */
+  section {
+    margin-bottom: 30px;
+    background-color: #444; /* Darker background color */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+  }
+
+  footer {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* White text color */
+    padding: 20px;
+    text-align: center;
+  }
+
+  h1 {color: whitesmoke ; font-size: 50px;   font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;}
+
+h3 {text-align: center;}    
